@@ -1,9 +1,8 @@
-# npm Code of Conduct
+> Node.js Inclusivity WG
+# Code of Conduct
 
-npm exists to facilitate sharing code, by making it easy for
-JavaScript module developers to publish and distribute packages.
-
-npm is a piece of technology, but more importantly, it is a community.
+The Node.js Inclusivity Working Group exists to improve inclusivity
+and diversity in the Node.js project and surrounding community.
 
 We believe that our mission is best served in an environment that is
 friendly, safe, and accepting; free from intimidation or harassment.
