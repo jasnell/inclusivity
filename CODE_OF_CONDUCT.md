@@ -14,7 +14,6 @@ tolerated.
 
 * Be respectful.
 * Abusive behavior is never tolerated.
-  administrators, and may be removed.
 * Violations of this code may result in swift and permanent expulsion
   from the Node.js inclusivity working group and/or the Node.js
   community.
